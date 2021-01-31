@@ -1,1 +1,1 @@
-# Next-Permutation-_-Practice_of-a-string-_-GeeksforGeeks
+# Next-greater-number-with-same-set-ofdigit--GeeksforGeeks
